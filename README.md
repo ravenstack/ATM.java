@@ -1,12 +1,12 @@
 # ATM.java
-ATM em Java
+ATM em Java V0.1
  Sistema Bancário Simples
 
 ## Visão Geral
 
 Este projeto é um simples sistema bancário em linha de comando que permite ao usuário realizar operações básicas em sua conta, como consultar saldos, receber valores e transferir valores. O sistema inicia exibindo os dados iniciais do cliente e oferece quatro opções de operação.
 
-## Funcionalidades
+## Funcionalidades da versão
 
 - **Consultar Saldo**: Permite ao usuário visualizar o saldo atual da conta.
 - **Receber Valor**: Permite ao usuário adicionar um valor ao saldo da conta.
